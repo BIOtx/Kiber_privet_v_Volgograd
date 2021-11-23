@@ -1,7 +1,7 @@
 <?php
 $n = 100;
 for ($i=0;$i<=$n;$i++){
-print_r($arr[$i] = rand(-100,100)." ");
+print_r($arr[$i] = rand(-51,51)." ");
 }
 $count=0;
 for($i=0;$i<$n;$i++)
